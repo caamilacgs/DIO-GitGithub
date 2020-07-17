@@ -5,3 +5,7 @@
 - Introdução ao Git e Controle de Versões (2 horas)
 - Introdução ao GitHub e comandos para trabalhar em equipe (4 horas)
 - Criando um repositório para seus projetos inovadores (4 horas)
+
+
+Tem duvidas de como fazer?
+Acessa esse link aqui: https://rogerdudler.github.io/git-guide/index.pt_BR.html
